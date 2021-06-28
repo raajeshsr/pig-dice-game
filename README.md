@@ -1,5 +1,9 @@
 # pig-dice-game
 
+Play the game here:
+https://clever-pike-3d3dab.netlify.app/
+
+
 Gameplay
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
