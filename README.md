@@ -1,6 +1,6 @@
 # pig-dice-game
 
-Play the game here:
+
 https://clever-pike-3d3dab.netlify.app/
 
 
